@@ -110,11 +110,5 @@ const pay = () => {
 
 </script>
 
-<style scoped>
-.svg-icon {
-  width: 50px;
-  height: 50px;
-}
-</style>
 
 
